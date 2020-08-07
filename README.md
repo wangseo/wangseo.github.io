@@ -1,2 +1,1 @@
-# wangseo.github.io
-welcome
+此页面为软件密钥地址
