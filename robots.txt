@@ -1,0 +1,2 @@
+# wangseo.github.io
+Disallow: /
